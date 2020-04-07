@@ -1,3 +1,7 @@
+This is my first project with React. It was done by following the Zero to Mastery course by Andrei Neagoie.
+
+To see it in action, visit: https://rdg83.github.io/robofriends/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
